@@ -1,1 +1,1 @@
-# mtg-card-renderer
+# mtg-card-renderer-api
